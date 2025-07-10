@@ -2,6 +2,8 @@
 
 A modern, responsive marketing webpage for OpenHands - an AI-powered development assistant.
 
+*OpenHands AI project created for session d568b884e7424fbc864701ce5c8e2f65*
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
